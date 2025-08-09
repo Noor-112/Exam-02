@@ -1,0 +1,14 @@
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\bin\Debug\net8.0\exam_2.exe
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\bin\Debug\net8.0\exam_2.deps.json
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\bin\Debug\net8.0\exam_2.runtimeconfig.json
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\bin\Debug\net8.0\exam_2.dll
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\bin\Debug\net8.0\exam_2.pdb
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\obj\Debug\net8.0\exam_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\obj\Debug\net8.0\exam_2.AssemblyInfoInputs.cache
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\obj\Debug\net8.0\exam_2.AssemblyInfo.cs
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\obj\Debug\net8.0\exam_2.csproj.CoreCompileInputs.cache
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\obj\Debug\net8.0\exam_2.dll
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\obj\Debug\net8.0\refint\exam_2.dll
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\obj\Debug\net8.0\exam_2.pdb
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\obj\Debug\net8.0\exam_2.genruntimeconfig.cache
+C:\Users\Nourhan Hamed\source\repos\exam_2\exam_2\obj\Debug\net8.0\ref\exam_2.dll
